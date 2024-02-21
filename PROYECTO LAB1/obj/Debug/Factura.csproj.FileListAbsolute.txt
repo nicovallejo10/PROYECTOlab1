@@ -1,0 +1,42 @@
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\bin\Debug\Factura.exe.config
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\bin\Debug\Factura.exe
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\bin\Debug\Factura.pdb
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.csprojAssemblyReference.cache
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.Form1.resources
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.exe
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.pdb
+C:\Users\naw\Downloads\EJEMPLO\Factura\obj\Debug\Factura.exe
+C:\Users\naw\Downloads\EJEMPLO\Factura\obj\Debug\Factura.pdb
+C:\Users\naw\Downloads\EJEMPLO\Factura\bin\Debug\Factura.exe.config
+C:\Users\naw\Downloads\EJEMPLO\Factura\bin\Debug\Factura.exe
+C:\Users\naw\Downloads\EJEMPLO\Factura\bin\Debug\Factura.pdb
+C:\Users\naw\Downloads\EJEMPLO\Factura\obj\Debug\Factura.csproj.AssemblyReference.cache
+C:\Users\naw\Downloads\EJEMPLO\Factura\obj\Debug\Factura.csproj.SuggestedBindingRedirects.cache
+C:\Users\naw\Downloads\EJEMPLO\Factura\obj\Debug\Factura.Form1.resources
+C:\Users\naw\Downloads\EJEMPLO\Factura\obj\Debug\Factura.Properties.Resources.resources
+C:\Users\naw\Downloads\EJEMPLO\Factura\obj\Debug\Factura.csproj.GenerateResource.cache
+C:\Users\naw\Downloads\EJEMPLO\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+D:\descargas viejo\EJEMPLO\Factura\bin\Debug\Factura.exe.config
+D:\descargas viejo\EJEMPLO\Factura\bin\Debug\Factura.exe
+D:\descargas viejo\EJEMPLO\Factura\bin\Debug\Factura.pdb
+D:\descargas viejo\EJEMPLO\Factura\obj\Debug\Factura.csproj.AssemblyReference.cache
+D:\descargas viejo\EJEMPLO\Factura\obj\Debug\Factura.Form1.resources
+D:\descargas viejo\EJEMPLO\Factura\obj\Debug\Factura.Properties.Resources.resources
+D:\descargas viejo\EJEMPLO\Factura\obj\Debug\Factura.csproj.GenerateResource.cache
+D:\descargas viejo\EJEMPLO\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+D:\descargas viejo\EJEMPLO\Factura\obj\Debug\Factura.exe
+D:\descargas viejo\EJEMPLO\Factura\obj\Debug\Factura.pdb
+C:\Users\User\Downloads\Factura 1\bin\Debug\Factura.exe.config
+C:\Users\User\Downloads\Factura 1\bin\Debug\Factura.exe
+C:\Users\User\Downloads\Factura 1\bin\Debug\Factura.pdb
+C:\Users\User\Downloads\Factura 1\obj\Debug\Factura.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Factura 1\obj\Debug\Factura.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Factura 1\obj\Debug\Factura.Form1.resources
+C:\Users\User\Downloads\Factura 1\obj\Debug\Factura.Properties.Resources.resources
+C:\Users\User\Downloads\Factura 1\obj\Debug\Factura.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Factura 1\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Factura 1\obj\Debug\Factura.exe
+C:\Users\User\Downloads\Factura 1\obj\Debug\Factura.pdb
